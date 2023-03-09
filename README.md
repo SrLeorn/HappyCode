@@ -4,7 +4,7 @@
 
 > Formação a Introdução ao Desenvolvimento Front End
 
-Projeto construido durante o curso ofertado pelo Happy Code em pareceria com o <a href="https://www.maisprati.com.br/" target="_blank">+praTI</a>.
+Projeto construido durante o curso ofertado pelo Happy Code em parceria com o <a href="https://www.maisprati.com.br/" target="_blank">+praTI</a>.
 
 [🔗 Clique aqui para acessar](https://srleorn.github.io/HappyCode/)
 
